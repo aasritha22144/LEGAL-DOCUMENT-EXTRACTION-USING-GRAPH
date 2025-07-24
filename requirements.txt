@@ -1,0 +1,11 @@
+PyQt5==5.15.7
+pyqtwebengine==5.15.6
+transformers==4.30.2
+torch==2.7.0  # Updated version
+spacy==3.6.1  # Updated version
+networkx==3.1
+pyvis==0.3.2
+neo4j==5.12.0  # Updated version
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+python-docx==0.8.11
